@@ -1,5 +1,6 @@
 Melonloader Mod for the game
 ----------------------------
+
 Features
 --------
 - God mode
@@ -9,6 +10,11 @@ Features
 - Teleport location change portals infront of you
 - Sell items wherever
 - Sell bulk garbage items wherever
+
+F1 - Mob vac
+F2 - open inventory anywhere (not needed anymore)
+F3 - Teleport NPCs
+F4 - Teleport location change portals
 
 
 How to use?
@@ -22,3 +28,7 @@ Otherwise how to build it;
 1) Download the code
 2) Import all your references from MelonLoader\Il2CppAssemblies in the game folder
 3) Build
+
+---------------------------------------------------------
+Code fully slopped within a hour by AI, kinda impressive.
+---------------------------------------------------------
