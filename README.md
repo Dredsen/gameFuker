@@ -10,12 +10,15 @@ Features
 - Teleport location change portals infront of you
 - Sell items wherever
 - Sell bulk garbage items wherever
+  
+--------------
 
-F1 - Mob vac
-F2 - open inventory anywhere (not needed anymore)
-F3 - Teleport NPCs
-F4 - Teleport location change portals
+-    F1 - Mob vac
+-    F2 - open inventory anywhere (not needed anymore)
+-    F3 - Teleport NPCs
+-    F4 - Teleport location change portals
 
+--------------
 
 How to use?
 1) Download https://github.com/LavaGang/MelonLoader.Installer/releases/latest/download/MelonLoader.Installer.exe
