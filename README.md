@@ -1,5 +1,5 @@
-Melonloader Mod for the game
-----------------------------
+Melonloader Mod for the game Eterspire
+--------------------------------------
 
 Features
 --------
